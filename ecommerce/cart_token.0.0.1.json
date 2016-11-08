@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "title": "cart_token",
+  "description": "Cart unique identifier",
+  "properties": {
+    "cart_token": {
+      "type": "string"
+    }
+  }
+}
